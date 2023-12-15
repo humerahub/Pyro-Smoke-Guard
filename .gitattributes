@@ -1,0 +1,4 @@
+objectDetection/fire-smokeobject-detection/yolox_s.pth filter=lfs diff=lfs merge=lfs -text
+objectDetection/fire-smokeobject-detection/latest_ckpt.pth filter=lfs diff=lfs merge=lfs -text
+fire-flame.onnx filter=lfs diff=lfs merge=lfs -text
+fire-flame.pt filter=lfs diff=lfs merge=lfs -text
